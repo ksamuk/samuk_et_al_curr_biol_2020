@@ -1,0 +1,25 @@
+Job_1527_Pool3 5440_S15 bc1021_BAK8B--bc1021_BAK8B
+sample 15
+pool Job_1527_Pool3
+bamfile bc1021_BAK8B--bc1021_BAK8B
+>|> 20190301 19:09:35.115 -|- INFO       -|- AlignSettings -|- 0x7fd759bda740|| -|- Using 4 threads for alignments, 2 threads for sorting, and 1.5G bytes RAM for sorting.
+>|> 20190301 19:09:35.129 -|- INFO       -|- CheckPositionalArgs -|- 0x7fd759bda740|| -|- READ input file: /dscrhome/kms173/work/iso_pac_bio/data/raw/Samuk_5440_20190226/Demultiplexed_Pools/Job_1527_Pool3/lima_output.bc1021_BAK8B--bc1021_BAK8B.bam
+>|> 20190301 19:09:35.129 -|- INFO       -|- CheckPositionalArgs -|- 0x7fd759bda740|| -|- REF  input file: ref/dpse-all-chromosome-r3.04.fasta
+>|> 20190301 19:09:35.135 -|- WARN       -|- CheckPositionalArgs -|- 0x7fd759bda740|| -|- Warning: Overwriting existing output file: /dscrhome/kms173/work/iso_pac_bio/data/bam/15.aligned.bam
+>|> 20190301 19:09:35.137 -|- INFO       -|- Index -|- 0x7fd759bda740|| -|- Start reading/building index
+>|> 20190301 19:09:40.412 -|- INFO       -|- Index -|- 0x7fd759bda740|| -|- Finished reading/building index
+>|> 20190301 19:10:49.007 -|- INFO       -|- operator() -|- 0x7fd750ffc700|| -|- Merged sorted output from 0 files and 2 in-memory blocks
+>|> 20190301 19:10:49.007 -|- INFO       -|- Close -|- 0x7fd759bda740|| -|- Generating BAI
+>|> 20190301 19:10:49.864 -|- INFO       -|- Runner -|- 0x7fd759bda740|| -|- Mapped Reads: 20341
+>|> 20190301 19:10:49.864 -|- INFO       -|- Runner -|- 0x7fd759bda740|| -|- Alignments: 30087
+>|> 20190301 19:10:49.864 -|- INFO       -|- Runner -|- 0x7fd759bda740|| -|- Mapped Bases: 113525092
+>|> 20190301 19:10:49.864 -|- INFO       -|- Runner -|- 0x7fd759bda740|| -|- Mean Mapped Concordance: 85.5301%
+>|> 20190301 19:10:49.864 -|- INFO       -|- Runner -|- 0x7fd759bda740|| -|- Max Mapped Read Length: 16516
+>|> 20190301 19:10:49.864 -|- INFO       -|- Runner -|- 0x7fd759bda740|| -|- Mean Mapped Read Length: 3773.23
+>|> 20190301 19:10:49.864 -|- INFO       -|- Runner -|- 0x7fd759bda740|| -|- Index Build/Read Time: 5s 709ms 
+>|> 20190301 19:10:49.864 -|- INFO       -|- Runner -|- 0x7fd759bda740|| -|- Alignment Time: 1m 2s 
+>|> 20190301 19:10:49.864 -|- INFO       -|- Runner -|- 0x7fd759bda740|| -|- Sort Merge Time: 5s 860ms 
+>|> 20190301 19:10:49.864 -|- INFO       -|- Runner -|- 0x7fd759bda740|| -|- BAI Generation Time: 856ms 
+>|> 20190301 19:10:49.864 -|- INFO       -|- Runner -|- 0x7fd759bda740|| -|- Run Time: 1m 14s 
+>|> 20190301 19:10:49.864 -|- INFO       -|- Runner -|- 0x7fd759bda740|| -|- CPU Time: 4m 56s 
+>|> 20190301 19:10:49.864 -|- INFO       -|- Runner -|- 0x7fd759bda740|| -|- Peak RSS: 2.30378 GB

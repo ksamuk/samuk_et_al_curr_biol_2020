@@ -1,0 +1,24 @@
+Job_1527_Pool3 5440_S13 bc1019_BAK8B--bc1019_BAK8B
+sample 13
+pool Job_1527_Pool3
+bamfile bc1019_BAK8B--bc1019_BAK8B
+>|> 20190301 19:08:16.681 -|- INFO       -|- AlignSettings -|- 0x7f666b39f740|| -|- Using 4 threads for alignments, 2 threads for sorting, and 1.5G bytes RAM for sorting.
+>|> 20190301 19:08:16.688 -|- INFO       -|- CheckPositionalArgs -|- 0x7f666b39f740|| -|- READ input file: /dscrhome/kms173/work/iso_pac_bio/data/raw/Samuk_5440_20190226/Demultiplexed_Pools/Job_1527_Pool3/lima_output.bc1019_BAK8B--bc1019_BAK8B.bam
+>|> 20190301 19:08:16.688 -|- INFO       -|- CheckPositionalArgs -|- 0x7f666b39f740|| -|- REF  input file: ref/dpse-all-chromosome-r3.04.fasta
+>|> 20190301 19:08:16.690 -|- INFO       -|- Index -|- 0x7f666b39f740|| -|- Start reading/building index
+>|> 20190301 19:08:21.598 -|- INFO       -|- Index -|- 0x7f666b39f740|| -|- Finished reading/building index
+>|> 20190301 19:11:38.074 -|- INFO       -|- operator() -|- 0x7f6663fff700|| -|- Merged sorted output from 2 files and 2 in-memory blocks
+>|> 20190301 19:11:38.074 -|- INFO       -|- Close -|- 0x7f666b39f740|| -|- Generating BAI
+>|> 20190301 19:11:40.628 -|- INFO       -|- Runner -|- 0x7f666b39f740|| -|- Mapped Reads: 51908
+>|> 20190301 19:11:40.628 -|- INFO       -|- Runner -|- 0x7f666b39f740|| -|- Alignments: 79270
+>|> 20190301 19:11:40.628 -|- INFO       -|- Runner -|- 0x7f666b39f740|| -|- Mapped Bases: 349132583
+>|> 20190301 19:11:40.628 -|- INFO       -|- Runner -|- 0x7f666b39f740|| -|- Mean Mapped Concordance: 85.6048%
+>|> 20190301 19:11:40.628 -|- INFO       -|- Runner -|- 0x7f666b39f740|| -|- Max Mapped Read Length: 30164
+>|> 20190301 19:11:40.628 -|- INFO       -|- Runner -|- 0x7f666b39f740|| -|- Mean Mapped Read Length: 4404.35
+>|> 20190301 19:11:40.628 -|- INFO       -|- Runner -|- 0x7f666b39f740|| -|- Index Build/Read Time: 5s 303ms 
+>|> 20190301 19:11:40.628 -|- INFO       -|- Runner -|- 0x7f666b39f740|| -|- Alignment Time: 2m 59s 
+>|> 20190301 19:11:40.628 -|- INFO       -|- Runner -|- 0x7f666b39f740|| -|- Sort Merge Time: 16s 532ms 
+>|> 20190301 19:11:40.628 -|- INFO       -|- Runner -|- 0x7f666b39f740|| -|- BAI Generation Time: 2s 553ms 
+>|> 20190301 19:11:40.628 -|- INFO       -|- Runner -|- 0x7f666b39f740|| -|- Run Time: 3m 23s 
+>|> 20190301 19:11:40.628 -|- INFO       -|- Runner -|- 0x7f666b39f740|| -|- CPU Time: 13m 44s 
+>|> 20190301 19:11:40.628 -|- INFO       -|- Runner -|- 0x7f666b39f740|| -|- Peak RSS: 3.1975 GB

@@ -1,0 +1,24 @@
+Job_1529_Pool1 5440_S2 bc1002_BAK8A--bc1002_BAK8A
+sample 2
+pool Job_1529_Pool1
+bamfile bc1002_BAK8A--bc1002_BAK8A
+>|> 20190301 18:43:04.636 -|- INFO       -|- AlignSettings -|- 0x7f0c9d4a6740|| -|- Using 4 threads for alignments, 2 threads for sorting, and 1.5G bytes RAM for sorting.
+>|> 20190301 18:43:04.642 -|- INFO       -|- CheckPositionalArgs -|- 0x7f0c9d4a6740|| -|- READ input file: /dscrhome/kms173/work/iso_pac_bio/data/raw/Samuk_5440_20190226/Demultiplexed_Pools/Job_1529_Pool1/lima_output.bc1002_BAK8A--bc1002_BAK8A.bam
+>|> 20190301 18:43:04.642 -|- INFO       -|- CheckPositionalArgs -|- 0x7f0c9d4a6740|| -|- REF  input file: ref/dpse-all-chromosome-r3.04.fasta
+>|> 20190301 18:43:04.646 -|- INFO       -|- Index -|- 0x7f0c9d4a6740|| -|- Start reading/building index
+>|> 20190301 18:43:09.754 -|- INFO       -|- Index -|- 0x7f0c9d4a6740|| -|- Finished reading/building index
+>|> 20190301 19:08:07.711 -|- INFO       -|- operator() -|- 0x7f0c96ffd700|| -|- Merged sorted output from 4 files and 2 in-memory blocks
+>|> 20190301 19:08:07.711 -|- INFO       -|- Close -|- 0x7f0c9d4a6740|| -|- Generating BAI
+>|> 20190301 19:08:11.797 -|- INFO       -|- Runner -|- 0x7f0c9d4a6740|| -|- Mapped Reads: 83603
+>|> 20190301 19:08:11.797 -|- INFO       -|- Runner -|- 0x7f0c9d4a6740|| -|- Alignments: 128443
+>|> 20190301 19:08:11.797 -|- INFO       -|- Runner -|- 0x7f0c9d4a6740|| -|- Mapped Bases: 575175156
+>|> 20190301 19:08:11.797 -|- INFO       -|- Runner -|- 0x7f0c9d4a6740|| -|- Mean Mapped Concordance: 85.3522%
+>|> 20190301 19:08:11.797 -|- INFO       -|- Runner -|- 0x7f0c9d4a6740|| -|- Max Mapped Read Length: 22741
+>|> 20190301 19:08:11.797 -|- INFO       -|- Runner -|- 0x7f0c9d4a6740|| -|- Mean Mapped Read Length: 4478.06
+>|> 20190301 19:08:11.797 -|- INFO       -|- Runner -|- 0x7f0c9d4a6740|| -|- Index Build/Read Time: 5s 489ms 
+>|> 20190301 19:08:11.797 -|- INFO       -|- Runner -|- 0x7f0c9d4a6740|| -|- Alignment Time: 12m 12s 
+>|> 20190301 19:08:11.797 -|- INFO       -|- Runner -|- 0x7f0c9d4a6740|| -|- Sort Merge Time: 12m 44s 
+>|> 20190301 19:08:11.797 -|- INFO       -|- Runner -|- 0x7f0c9d4a6740|| -|- BAI Generation Time: 4s 85ms 
+>|> 20190301 19:08:11.797 -|- INFO       -|- Runner -|- 0x7f0c9d4a6740|| -|- Run Time: 25m 7s 
+>|> 20190301 19:08:11.797 -|- INFO       -|- Runner -|- 0x7f0c9d4a6740|| -|- CPU Time: 23m 3s 
+>|> 20190301 19:08:11.797 -|- INFO       -|- Runner -|- 0x7f0c9d4a6740|| -|- Peak RSS: 3.12875 GB

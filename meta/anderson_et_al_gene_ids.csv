@@ -1,0 +1,34 @@
+Gene,Pathway,Class
+ald,CS,Ortholog
+asp,CS,ASPM
+Axs,AS,
+c(2)M,DSBF/CR,LS
+c(3)G,DSBF/CR,Ortholog
+cav,"HB, TM",LS
+CG7676,C3G localization,LS
+Su(var)205,HB,HP1
+Klp3A,CS/CR,KIF4
+Ku70,Rec/Rep/TM,KU70
+Ku80,Rec/Rep/TM,KU80
+mei-218,CR,LS
+mei-41,CR,ATR
+mei-P22,DSBF,LS
+mei-S332,CS,LS
+mei-P26,CR,
+mei-W68,DSBF,SPO11
+mei-9,Rec/Rep,ERCC4
+mre11,TM,MRE11
+mtrm,CS,LS
+mus304,Rec/Rep,ATRIP
+ncd,AS,
+okr,Rec/Rep,RAD54
+ord,CS,LS
+polo,SA/CS,
+rad50,TM,RAD50
+smc1,SCC,SMC1A
+spn-A,Rec/Rep,RAD51
+spn-B,Rec/Rep,XRCC3
+spn-D,Rec/Rep,
+subito,SA/CS,
+teflon,CS,LS
+tefu,TM,

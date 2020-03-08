@@ -1,0 +1,24 @@
+Job_1528_Pool2 5440_S8 bc1014_BAK8A--bc1014_BAK8A
+sample 8
+pool Job_1528_Pool2
+bamfile bc1014_BAK8A--bc1014_BAK8A
+>|> 20190301 19:00:55.469 -|- INFO       -|- AlignSettings -|- 0x7f4ae9627740|| -|- Using 4 threads for alignments, 2 threads for sorting, and 1.5G bytes RAM for sorting.
+>|> 20190301 19:00:55.480 -|- INFO       -|- CheckPositionalArgs -|- 0x7f4ae9627740|| -|- READ input file: /dscrhome/kms173/work/iso_pac_bio/data/raw/Samuk_5440_20190226/Demultiplexed_Pools/Job_1528_Pool2/lima_output.bc1014_BAK8A--bc1014_BAK8A.bam
+>|> 20190301 19:00:55.480 -|- INFO       -|- CheckPositionalArgs -|- 0x7f4ae9627740|| -|- REF  input file: ref/dpse-all-chromosome-r3.04.fasta
+>|> 20190301 19:00:55.487 -|- INFO       -|- Index -|- 0x7f4ae9627740|| -|- Start reading/building index
+>|> 20190301 19:01:00.399 -|- INFO       -|- Index -|- 0x7f4ae9627740|| -|- Finished reading/building index
+>|> 20190301 19:08:09.588 -|- INFO       -|- operator() -|- 0x7f4ae2ffd700|| -|- Merged sorted output from 2 files and 2 in-memory blocks
+>|> 20190301 19:08:09.588 -|- INFO       -|- Close -|- 0x7f4ae9627740|| -|- Generating BAI
+>|> 20190301 19:08:11.477 -|- INFO       -|- Runner -|- 0x7f4ae9627740|| -|- Mapped Reads: 43895
+>|> 20190301 19:08:11.477 -|- INFO       -|- Runner -|- 0x7f4ae9627740|| -|- Alignments: 67421
+>|> 20190301 19:08:11.477 -|- INFO       -|- Runner -|- 0x7f4ae9627740|| -|- Mapped Bases: 253006990
+>|> 20190301 19:08:11.477 -|- INFO       -|- Runner -|- 0x7f4ae9627740|| -|- Mean Mapped Concordance: 85.4262%
+>|> 20190301 19:08:11.477 -|- INFO       -|- Runner -|- 0x7f4ae9627740|| -|- Max Mapped Read Length: 22046
+>|> 20190301 19:08:11.477 -|- INFO       -|- Runner -|- 0x7f4ae9627740|| -|- Mean Mapped Read Length: 3752.64
+>|> 20190301 19:08:11.477 -|- INFO       -|- Runner -|- 0x7f4ae9627740|| -|- Index Build/Read Time: 5s 328ms 
+>|> 20190301 19:08:11.477 -|- INFO       -|- Runner -|- 0x7f4ae9627740|| -|- Alignment Time: 6m 20s 
+>|> 20190301 19:08:11.477 -|- INFO       -|- Runner -|- 0x7f4ae9627740|| -|- Sort Merge Time: 48s 515ms 
+>|> 20190301 19:08:11.477 -|- INFO       -|- Runner -|- 0x7f4ae9627740|| -|- BAI Generation Time: 1s 888ms 
+>|> 20190301 19:08:11.477 -|- INFO       -|- Runner -|- 0x7f4ae9627740|| -|- Run Time: 7m 16s 
+>|> 20190301 19:08:11.477 -|- INFO       -|- Runner -|- 0x7f4ae9627740|| -|- CPU Time: 10m 16s 
+>|> 20190301 19:08:11.477 -|- INFO       -|- Runner -|- 0x7f4ae9627740|| -|- Peak RSS: 3.14174 GB

@@ -1,0 +1,15 @@
+Tag ID Number Type Description
+INFO SVTYPE 1 String Type of structural variant
+INFO END 1 Integer End position of the structural variant described in this record
+INFO SVLEN . Integer Difference in length between REF and ALT alleles
+INFO SVANN . String Repeat annotation of structural variant
+INFO CIPOS 2 Integer Confidence interval around POS for imprecise variants
+INFO MATEID . String ID of mate breakends
+INFO MATEDIST 1 Integer Distance to the mate breakend for mates on the same contig
+INFO IMPRECISE 0 Flag Imprecise structural variation
+INFO SHADOWED 0 Flag CNV overlaps with or is encapsulated by deletion
+FORMAT gt_GT 1 String Genotype
+FORMAT gt_AD R Integer Read depth per allele
+FORMAT gt_DP 1 Integer Read depth at this position for this sample
+FORMAT gt_SAC . Integer Number of reads on the forward and reverse strand supporting each allele including reference
+FORMAT gt_CN 1 Integer Copy number genotype for imprecise events
